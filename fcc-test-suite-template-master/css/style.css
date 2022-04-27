@@ -1,0 +1,17 @@
+body {
+    display: flex;
+}
+#title {
+    display: flex;
+    justify-content: center;
+}
+#img {
+    display: flex;
+    align-items: stretch;
+    flex: auto;
+}
+#tribute-info {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
